@@ -5,6 +5,7 @@ specifiers:
   '@types/react': 18.0.9
   '@types/react-dom': 18.0.5
   autoprefixer: ^10.4.7
+  classnames: ^2.3.1
   next: latest
   postcss: ^8.4.14
   react: 18.1.0
@@ -13,6 +14,7 @@ specifiers:
   typescript: 4.7.2
 
 dependencies:
+  classnames: 2.3.1
   next: 12.1.6_ef5jwxihqo6n7gxfmzogljlgcm
   react: 18.1.0
   react-dom: 18.1.0_react@18.1.0
@@ -280,6 +282,10 @@ packages:
     optionalDependencies:
       fsevents: 2.3.2
     dev: true
+
+  /classnames/2.3.1:
+    resolution: {integrity: sha512-OlQdbZ7gLfGarSqxesMesDa5uz7KFbID8Kpq/SxIoNGDqY8lSYs0D+hhtBXhcdB3rcbXArFr7vlHheLk1voeNA==}
+    dev: false
 
   /color-name/1.1.4:
     resolution: {integrity: sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==}
