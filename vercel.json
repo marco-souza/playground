@@ -1,0 +1,7 @@
+{
+  "redirects": [
+    { "source": "/profile", "destination": "/github", "permanent": true },
+    { "source": "/api/github", "destination": "https://api.github.com" },
+    { "source": "/contact", "destination": "/github" }
+  ]
+}
